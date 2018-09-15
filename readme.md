@@ -12,6 +12,7 @@
 ## Projetos Libertarios
 - [Tradução de Artigos](https://github.com/mateus-buarque6/Traducoes)
 - [SiteLiber](https://github.com/SiteLIBER/LiberMVC)
+- [Instituto Mises](https://www.mises.org.br/)
 
 
 ## Canais no Youtube
