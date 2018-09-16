@@ -40,6 +40,31 @@
 	- [pdf](https://www.mises.org.br/EbookDownload.aspx?file=69.pdf)
 	- [audiobook](https://www.youtube.com/watch?v=XAjNVs3iwV8)
 
+
+1. Visão Geral da Escola Austríaca
+- [A Escola Austríaca, de Jesús Huerta de Soto]
+2. O Método Austríaco e a Epistemologia
+- [A Ciência Econômica e o Método Austríaco, de Hans-Hermann Hoppe](http://rothbardbrasil.com/a-ciencia-economica-e-o-metodo-austriaco-8/)
+- [Teoria e História, de Ludwig von Mises](http://rothbardbrasil.com/teoria-e-historia-2/)
+- ["É possível fazer pesquisas em ciências sociais baseando-se em princípios científicos causais?", de Hoppe](http://rothbardbrasil.com/e-possivel-fazer-pesquisas-em-ciencias-sociais-baseando-se-em-principios-cientificos-causais/)
+- ["Em Defesa do Racionalismo Extremo: Reflexões sobre The Rhetoric of Economics de Donald McCloskey", de Hoppe](http://criticidadevoraz.blogspot.com.br/2015/07/em-defesa-do-racionalismo-extremo.html)
+- ["Praxeologia: O Método dos Economistas Austríacos", de Murray N. Rothbard](http://rothbardbrasil.com/praxeologia-o-metodo-dos-economistas-austriacos/)
+- ["Em Defesa do 'Apriorismo Extremo'", de Rothbard:](http://rothbardbrasil.com/em-defesa-do-apriorismo-extremo/)
+
+3. Economia
+- [Princípios de Economia Política, de Carl Menger:](http://portalconservador.com/livros/Carl-Menger-Principios-de-Economia-Politica.pdf)
+- [Ação Humana, de Mises](http://rothbardbrasil.com/acao-humana-um-tratado-de-econom…/)
+- [Economia Numa Única Lição, de Henry Hazlitt](http://rothbardbrasil.com/economia-numa-unica-licao/)
+- [Uma Teoria do Socialismo e do Capitalismo, de Hoppe](http://rothbardbrasil.com/uma-teoria-do-socialismo-e-do-ca…/)
+- [Democracia O Deus que Falhou, de Hoppe](http://rothbardbrasil.com/democracia-o-deus-que-falhou-2/)
+
+4. Ética e Direito
+- [A Ética da Liberdade, de Rothbard](http://rothbardbrasil.com/a-etica-da-liberdade/)
+- ["A Justiça da Eficiência Econômica", de Hoppe](http://www.hanshoppe.com/wp-content/uploads/2015/02/A-Justiça-da-Eficiência-Econômica.pdf)
+- ["A Ética e a Economia da Propriedade Privada", de Hoppe](http://rothbardbrasil.com/a-etica-e-a-economia-da-propriedade-privada/)
+- ["Propriedade, Causalidade e Responsabilidade Legal", de Hoppe](http://rothbardbrasil.com/propriedade-causalidade-e-responsabilidade-legal/)
+- ["Novas Direções Racionalistas nas Teorias Libertárias do Direito", de Stephan Kinsella](http://rothbardbrasil.com/novas-direcoes-racionalistas-nas-teorias-libertarias-do-direito/)
+
 ## Conteudos
 
 - [Rap]
