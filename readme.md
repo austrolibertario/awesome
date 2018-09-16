@@ -15,13 +15,13 @@
 
 - [Instituto Mises](https://www.mises.org.br/)
 - [Students for Liberty](https://www.studentsforliberty.org/brasil/)
-- [Tradutores Anarcocapitalistas](https://br.ancap.ch/)
+- [Foda-se o Estado](http://foda-seoestado.com/)
+- [SiteLiber](https://github.com/SiteLIBER/LiberMVC)
 
 ## Projetos Libertarios
 
 - [Ancap.su](http://ancap.su)
-- [Foda-se o Estado](http://foda-seoestado.com/)
-- [SiteLiber](https://github.com/SiteLIBER/LiberMVC)
+- [Tradutores Anarcocapitalistas](https://br.ancap.ch/)
 - [Tradução de Artigos](https://github.com/austrolibertario/from-en)
 
 ## Canais no Youtube
