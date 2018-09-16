@@ -42,7 +42,7 @@
 
 
 1. Visão Geral da Escola Austríaca
-- [A Escola Austríaca, de Jesús Huerta de Soto]
+- [A Escola Austríaca, de Jesús Huerta de Soto](http://rothbardbrasil.com/a-escola-austriaca/)
 2. O Método Austríaco e a Epistemologia
 - [A Ciência Econômica e o Método Austríaco, de Hans-Hermann Hoppe](http://rothbardbrasil.com/a-ciencia-economica-e-o-metodo-austriaco-8/)
 - [Teoria e História, de Ludwig von Mises](http://rothbardbrasil.com/teoria-e-historia-2/)
