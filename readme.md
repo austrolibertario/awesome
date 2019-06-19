@@ -23,11 +23,14 @@
 - [Ancap.su](http://ancap.su)
 - [Tradutores Anarcocapitalistas](https://br.ancap.ch/)
 - [Tradução de Artigos](https://github.com/austrolibertario/from-en)
+- [Cultura Libertária](https://www.culturalibertaria.com/)
+- [Comunidade Ideias Radicais](https://ideiasradicais.com.br/)
 
 ## Canais no Youtube
 
-- [Gradualismo](https://pt.wikipedia.org/wiki/Gradualismo)
-	- [Ideias Radicais](https://www.youtube.com/user/ideiasradicais)
+- [Ideias Radicais](https://www.youtube.com/user/ideiasradicais)
+- [Sokath](https://www.youtube.com/channel/UCHiPlljsU3rFJvNegG6BEPw)
+- [Cultura Libertária](https://www.youtube.com/channel/UCIU6wWUaWx2ilIiAjeIc6FA)
 - [Daniel Fraga](https://www.youtube.com/channel/UC-nr9CZ9LglgqMOqSSlzytg)
 
 ## Autores Austriacos
